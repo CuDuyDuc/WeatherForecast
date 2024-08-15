@@ -8,7 +8,10 @@ const IMAGES = {
     ModeRateRain: require('./moderaterain.png'),
     PartlyCloudy: require('./partlycloudy.png'),
     Sun: require('./sun.png'),
-    Splash: require('./splash.png')
+    Splash: require('./splash.png'),
+    Drop_Icon: require('./drop_icon.png'),
+    Sun_Icon: require('./sun_icon.png'),
+    Wind_Icon: require('./wind_icon.png')
 }
 
 export default IMAGES

@@ -6,6 +6,7 @@ import KeyboardAvoidingViewWrapper from './KeyboardAvoidingViewWrapper';
 import InputComponent from './InputComponent';
 import RowComponent from './RowComponent';
 import ButtonComponent from './ButtonComponent';
+import CardWeatherDaily from './CardWeatherDaily';
 
 export {
     ContainerComponent,
@@ -16,4 +17,5 @@ export {
     InputComponent,
     RowComponent,
     ButtonComponent,
+    CardWeatherDaily,
 }

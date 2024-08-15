@@ -5,7 +5,8 @@ const COLORS = {
     HEX_LIGHT_GREY: '#AEAEAE',
     HEX_LIGHT: '#141921',
     LIGHT: '#d9e3f0',
-    ORANGE: '#FF9228'
+    ORANGE: '#FF9228',
+    BLUE_BLACK:'#1F1F39',
 }
 
 export default COLORS;
